@@ -32,7 +32,7 @@ File { backup => 'main' }
 # node definitions.
 
 class class_test {
-file { "/tmp/glmf":
+file { "/tmp/test1":
 owner => "root",
 group => "root",
 mode => 644,
